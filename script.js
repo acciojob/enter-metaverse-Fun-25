@@ -1,9 +1,9 @@
 //your JS code here. If required.
-let btn=document.getElementById("btn");
-let para=document.getElementById("para");
+let btn=document.getElementById("enterBtn");
+let para=document.getElementById("status");
 
 function changePara(){
-	para.innerText="Entered Metaverse"
+	para.innerHTML= <h1>Entered Metaverse</h1>
 	
 }
 
