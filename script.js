@@ -3,7 +3,7 @@ let btn=document.getElementById("enterBtn");
 let para=document.getElementById("status");
 
 function changePara(){
-	para.innerHTML= <h1>Entered Metaverse</h1>
+	para.innerHTML= "<h1>Entered Metaverse</h1>"
 	
 }
 
